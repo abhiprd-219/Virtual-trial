@@ -1,0 +1,28 @@
+.sampleStyle{ font-family: 'Florence', cursive; font-size: 25pt; font-weight: bold ; font-variant: small-caps; color: white; text-align: center; }
+
+ .pro{ font-family: 'Handlee', cursive; font-size: 16pt; background-color: #efefef; padding: 10px; margin: 0; }
+ 
+  .img{ display: block; width: 300px; height: 300px; margin: auto; border: 10px solid black; border-radius: 50%; }
+  
+   .bground{ background-color:#1abc9c; } 
+   
+   .section{ font-size: 2.25rem; line-height: 2rem; color: #2c3e50; text-transform: uppercase; text-align: center; } 
+   
+   .sec{ border: 4px  solid #20bcd5;
+    padding: 20px;
+     font-size: 15pt; 
+     color: #20bcd5; 
+     text-align: center;
+      padding: 18px 0 18px 0;
+       margin: 0 0 10px 0; 
+       font-size: 2em; 
+       font-weight: bold;
+        } 
+   
+   .comeon{ font-family: 'Handlee', cursive; font-size: 13pt; text-align: center; font-style: 'normal'; }
+   
+    .bro{ font-family: 'Handlee', cursive; font-size: 16pt; background-color: white; padding: 10px; margin: 0;} 
+    
+    .foot { margin-bottom: 10px; font-size: 11pt; padding: 15px 10px 10px; border: 1px solid #cecece; background-color: #efefef; color: #787575; border-radius: 5px; width: 70%; outline: none; } 
+    
+    .sond{ background-color: #3fb6b2; padding: 12px 45px; border-radius: 5px; cursor: pointer; color: #ffffff; border: none; outline: none; margin: 0; font-weight: bold; }
